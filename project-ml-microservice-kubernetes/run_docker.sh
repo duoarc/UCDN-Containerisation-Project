@@ -13,3 +13,5 @@ docker image ls
 # Step 3: 
 # Run flask app
 docker run -it --publish 8000:80 demolocal bash
+
+docker ps
